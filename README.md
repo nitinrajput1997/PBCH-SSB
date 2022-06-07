@@ -1,1 +1,1 @@
-# PDCCH
+# PBCH SSB
